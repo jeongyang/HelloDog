@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloDog</string>
+    <string name="mocha_intro">Hello My Stuburn Dog, Mocha!</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
